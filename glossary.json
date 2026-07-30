@@ -1,0 +1,30 @@
+{
+  "_açıklama": "Kuika projelerinde kullanılan terimlerin sabit karşılıkları. Çeviri sırasında bu karşılıklar birebir kullanılır. Yeni terimler elle eklenir.",
+  "tr-en": {
+    "Müşteri": "Customer",
+    "Olası Müşteri": "Prospective Customer",
+    "İrtibat": "Contact",
+    "İrtibat Kişisi": "Contact Person",
+    "Ziyaret": "Visit",
+    "Aktivite": "Activity",
+    "Şirket Kodu": "Company Code",
+    "Şirket Adı": "Company Name",
+    "Ünvan": "Title",
+    "Dağıtım Kanalı": "Distribution Channel",
+    "Satış Ofisi": "Sales Office",
+    "Satış Grubu": "Sales Group",
+    "Pazarlama Ekibi Üyesi": "Marketing Team Member",
+    "Sınıf": "Class",
+    "Zone Bilgisi": "Zone Info",
+    "Kaydet": "Save",
+    "Vazgeç": "Cancel",
+    "Ekle": "Add",
+    "Sil": "Delete",
+    "Güncelle": "Update",
+    "Güncellenme Tarihi": "Updated Date",
+    "Telefon No": "Phone Number",
+    "Telefon Numarası": "Phone Number",
+    "Oluşturan Kullanıcı": "Created User",
+    "Yeni Ekle": "Add New"
+  }
+}
