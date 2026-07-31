@@ -1,6 +1,6 @@
 {
   "name": "kuika-tools",
-  "version": "2.1.1",
+  "version": "2.2.0",
   "description": "Kuika low-code platformu için çok yetenekli otomasyon aracı (MCP server + CLI): çeviri, tablo oluşturma...",
   "type": "module",
   "main": "dist/index.js",

@@ -5,3 +5,4 @@ node_modules/
 .kuika-headers*
 .kuika-trash/
 .kuika-versions/
+.kuika-snapshots/
